@@ -9,4 +9,8 @@ The project integrated various data sources and used a range of visualizations t
 > Customer Insights: Highlighted key customer demographics and satisfaction levels, informing marketing and service improvements.  
 > Inventory Management: Revealed overstocking in premium products and efficient turnover in high-demand items, suggesting areas for inventory optimization.  
 > Delivery Efficiency: Analyzed delivery times and success rates, pinpointing areas for logistical improvements to enhance customer satisfaction.  
-> These insights provided a comprehensive understanding of Blinkit's operations, supporting strategic decisions and operational enhancements for better business outcomes.  
+> These insights provided a comprehensive understanding of Blinkit's operations, supporting strategic decisions and operational enhancements for better business outcomes.
+
+Kindly click on this link to check out the dashboard : https://shorturl.at/moGgB  
+
+Credits (YT tutorial) : https://tinyurl.com/59p5x3n3  
