@@ -11,6 +11,7 @@ The project integrated various data sources and used a range of visualizations t
 > Delivery Efficiency: Analyzed delivery times and success rates, pinpointing areas for logistical improvements to enhance customer satisfaction.  
 > These insights provided a comprehensive understanding of Blinkit's operations, supporting strategic decisions and operational enhancements for better business outcomes.
 
+Detailed blog : https://tinyurl.com/3aapz6vb  
 Kindly click on this link to check out the dashboard : https://shorturl.at/moGgB  
 
 ![D](https://github.com/user-attachments/assets/92d0a5fa-4f09-4ce7-bad9-e7492427aded)
